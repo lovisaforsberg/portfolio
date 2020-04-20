@@ -1,0 +1,30 @@
+.aboutImage{
+    height: 300px;
+    width: auto;
+    /*border-radius: 10px;*/
+}
+
+.aboutContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.aboutPicture{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.aboutText{
+    margin-left: 30px;
+    margin-right: 30px;
+    justify-content: start;
+    text-align: start;
+}
+
+.icon{
+    color:#73877B;
+    font-size: 30px;
+    margin-right:10px;
+}

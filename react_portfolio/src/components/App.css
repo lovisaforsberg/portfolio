@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: Playfair Display;
+  letter-spacing: 0.2em;
+  color: #151515;
+}
+
+h1{
+  color: #151515;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 53px;
+    letter-spacing: 0.2em;
+    text-decoration: none;
+
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+p{
+/*color: #151515;*/
+color: #73877B;
+
+font-family: 'Poppins', sans-serif !important;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2em;
+}
+
+

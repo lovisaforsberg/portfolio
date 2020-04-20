@@ -1,0 +1,24 @@
+
+.navbarElement{
+    color: #151515;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 53px;
+    /*display: flex;*/
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2em;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-color: transparent;
+
+    text-decoration: none;
+
+}
+
+#navbar{
+    position: sticky;
+}
